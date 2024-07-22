@@ -38,7 +38,7 @@
       </td>
       <td>
         <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huygwen&theme=github_dark&utcOffset=7 alt="Productive Time" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huygwen&theme=github_dark&utcOffset=0" alt="Productive Time" />
         </a>
       </td>
     </tr>
